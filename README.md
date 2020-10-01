@@ -4,7 +4,6 @@ This project is about recognizing the text from a picture with some text written
 
 ## Upcoming Features
 * Translation for the extracted text through the process of text recognition.
-* 
 
 
 ## Contributing
